@@ -1,0 +1,22 @@
+.zalupa-text {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    color: rgb(255, 0, 255);
+    font-size: 100px;
+    transform: translate(-50%, -50%);
+}
+
+.zalupa-img {
+    /* width: 450px;
+    height: 250px;
+    padding-left: 670px; */
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.container {
+    position: relative;
+}
